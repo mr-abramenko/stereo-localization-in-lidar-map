@@ -29,8 +29,13 @@ With parallel code implementation, we achieve an input stereo image processing s
 If you find this project useful in your research, please consider citing our work:
 
 ```
-@article{belkin2023stereo,
-  title={Localization of Mobile Robot in Prior 3D LiDAR Maps using Stereo Image Sequence},
-  author={Belkin, Ilya and Abramenko, Alexander and Bezuglyj, Vitaly and Yudin, Dmitry},
+@article{belkin2024localization,
+  title={Localization of mobile robot in prior 3D LiDAR maps using stereo image sequence},
+  author={Belkin, Ilya V and Abramenko, Alexander A and Bezuglyi, Vitaly D and Yudin, Dmitry A},
+  journal={Computer Optics},
+  volume={48},
+  number={3},
+  pages={406--417},
+  year={2024}
 }
 ```
